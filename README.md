@@ -1,4 +1,4 @@
 # Euler-Method
 
 
-This was created as a practice code.
+The euler's method for approximating differential equations
